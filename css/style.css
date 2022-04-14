@@ -35,8 +35,6 @@ main {
 
 .searchtitle h1 {
     font-size: x-large;
-	width: auto;
-	position: fixed;
 }
 a {
     text-decoration: none;
